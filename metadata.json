@@ -1,0 +1,6 @@
+{
+  "name": "Kisan Alert",
+  "description": "An AI-powered crop health monitoring, weather intelligence, mandi price tracker, and voice-guided advisory platform for farmers.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
